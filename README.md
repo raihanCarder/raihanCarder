@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raihan</h1>
-<h3 align="center">An Aspiring Software Engineer from Toronto.</h3>
+<h3 align="center">An Aspiring Software Engineer from St. Thomas, Ontario.</h3>
 
 - 🔭 I’m currently working on **learning Javascript.**
 
