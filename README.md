@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **raihancarder@gmail.com**
 
-- ⚡ Fun fact **I love to go to the gym.**
+- ⚡ Fun fact: **I love to go to the gym.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
