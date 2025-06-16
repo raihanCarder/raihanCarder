@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **raihancarder@gmail.com**
 
-- ⚡ Fun fact: **
--  I love to go to the gym.
--  I'm half Indonesian and half Canadian.**
+- ⚡ Fun facts: **
+  - I love to go to the gym.
+  - I'm half Indonesian and half Canadian.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
