@@ -3,7 +3,7 @@
 
 - 🌎 I currently live in **Toronto, Ontario.**
 
-- 🔭 I’m currently working on **learning Javascript.**
+- 🔭 I’m currently working on **improving my Javascript.**
 
 - 📫 How to reach me **raihancarder@gmail.com**
 
