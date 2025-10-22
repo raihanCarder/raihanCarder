@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raihan Carder</h1>
-<h3 align="center">An Aspiring Software Engineer from St. Thomas, Ontario.</h3>
+<h1 align="center">Hey, I'm Raihan Carder 👋</h1>
+<h3 align="center">A Computer Science Student @ UofT</h3>
 
 - 🌎 I currently live in **Toronto, Ontario.**
 
