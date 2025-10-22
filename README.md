@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Raihan Carder 👋</h1>
-<h3 align="center">A Computer Science Student @ UofT</h3>
+<h3 align="center">A Computer Science Student @ UofT specializing in Software Engineering</h3>
 
 - 🌎 I currently live in **Toronto, Ontario.**
 
