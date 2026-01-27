@@ -1,5 +1,5 @@
 # ✌️ About Me:
-🏫 I'm currently studying Computer Science @ UofT<br>💭 Currently learning full-stack development.<br>📍 Living in Toronto, Canada <br>💪 I love to go to the gym<br>
+🏫 I'm studying Computer Science @ UofT with a Specialization in Software Engineering<br>💭 Currently learning full-stack development, focusing on system design, APIs, and end-to-end application development.<br>📍 Living in Toronto, Canada <br>💪 I love to go to the gym<br>
 
 
 ## 🌐 Socials:
