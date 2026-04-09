@@ -10,5 +10,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=raihanCarder&theme=dark&hide_border=false)<br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=raihanCarder&theme=dark&hide_border=false)](https://git.io/streak-stats)
