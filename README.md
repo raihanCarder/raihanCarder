@@ -3,6 +3,10 @@ Hi, I’m Raihan Carder! A 2nd-year Computer Science student at the University o
 
 I got into CS because I’m passionate about building software and realized I love to learn anything tech-related. Lately I've been especially enjoying full-stack development, playing around with projects involving AI/ML, and building @ hackathons 🧑🏻‍💻 
 
+Outside of tech, I love going to the gym, reading, and trying new things 📚
+
+I’m currently looking for Summer and Fall 2026 internship opportunities. If you know of any openings or would like to connect, feel free to reach out!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-carder/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihancarder@gmail.com) 
 
