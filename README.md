@@ -1,6 +1,7 @@
 # ✌️ About Me:
-🏫 I'm studying Computer Science @ UofT with a Specialization in Software Engineering<br>💭 Currently learning more about full-stack development, focusing on system design, APIs, and end-to-end application development.<br>🛠️ Actively building Music4You and my portfolio website <br>📍 Living in Toronto, Canada <br>💪 I love to go to the gym<br>
+Hi, I’m Raihan Carder! A 2nd-year Computer Science student at the University of Toronto, specializing in Software Engineering 🇨🇦  
 
+I got into CS because I’m passionate about building software and realized I love to learn anything tech-related. Lately I've been especially enjoying full-stack development, playing around with projects involving AI/ML, and building @ hackathons 🧑🏻‍💻 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-carder/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihancarder@gmail.com) 
