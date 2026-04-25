@@ -1,5 +1,5 @@
 # ✌️ About Me:
-Hi, I’m Raihan Carder! A 2nd-year Computer Science student at the University of Toronto, specializing in Software Engineering 🇨🇦  
+Hi, I’m Raihan Carder! A 3rd-year Computer Science student at the University of Toronto, specializing in Software Engineering 🇨🇦  
 
 I got into CS because I’m passionate about building software and realized I love to learn anything tech-related. Lately I've been especially enjoying full-stack development, playing around with projects involving AI/ML, and building @ hackathons 🧑🏻‍💻 
 
