@@ -5,7 +5,7 @@ I got into CS because I’m passionate about building software and realized I lo
 
 Outside of tech, I love going to the gym, reading, and trying new things 📚
 
-I’m currently looking for Fall 2026 internship opportunities. If you know of any openings or would like to connect, feel free to reach out!
+Starting Fall 2026, I am a Software developer @ Rocket Innovation Studio until September 2027 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-carder/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihancarder@gmail.com) 
