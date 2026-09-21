@@ -3,9 +3,9 @@ Hi, I’m Raihan Carder! A 3rd-year Computer Science student at the University o
 
 I got into CS because I’m passionate about building software and realized I love to learn anything tech-related. Lately I've been especially enjoying full-stack development, playing around with projects involving AI/ML, and building @ hackathons 🧑🏻‍💻 
 
-Outside of tech, I love going to the gym, reading, and trying new things 📚
+Outside of tech, I love going to the gym, bouldering, reading, and trying new things 📚
 
-Incoming Software Developer @ Rocket Innovation Studio 🚀
+Currently a Software Developer @ Rocket Innovation Studio 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-carder/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihancarder@gmail.com) 
