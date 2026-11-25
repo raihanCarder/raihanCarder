@@ -3,7 +3,7 @@ Hey, I’m Raihan! I'm currently a Software Developer Intern at Rocket Innovatio
 
 I got into Computer Science because I’m passionate about solving problems through code and love to build software with teams. Lately I've been especially enjoying solving problems at hackathons and personal projects 🧑🏻‍💻
 
-Outside of tech, you'll see me at the gym, bouldering, reading, or trying new things 📚
+Outside of tech, you'll see me at the gym, bouldering, reading, or trying new things 🏔️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-carder/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihancarder@gmail.com) 
