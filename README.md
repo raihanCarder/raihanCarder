@@ -1,7 +1,7 @@
 # About Me
 Hey, I’m Raihan! I'm currently a Software Developer Intern at Rocket Innovation Studio where I'm doing full-stack development across RocketPro, BrokerNearMe, and RocketPro-Portal while building internal Ai tooling 🚀  
 
-I got into Computer Science because I’m passionate about solving problems through code and love to build software with teams. Lately I've been especially enjoying solving problems at hackathons and personal projects.
+I got into Computer Science because I’m passionate about solving problems through code and love to build software with teams. Lately I've been especially enjoying solving problems at hackathons and personal projects 🧑🏻‍💻
 
 Outside of tech, you'll see me at the gym, bouldering, reading, or trying new things 📚
 
