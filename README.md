@@ -1,11 +1,9 @@
-# ✌️ About Me:
-Hi, I’m Raihan Carder! A 3rd-year Computer Science student at the University of Toronto, specializing in Software Engineering 🇨🇦  
+# About Me:
+Hey, I’m Raihan! I'm currently a Software Developer Intern at Rocket Innovation Studio where I'm doing full-stack development across RocketPro, BrokerNearMe, and RocketPro-Portal while building internal Ai tooling 🚀  
 
-I got into CS because I’m passionate about building software and realized I love to learn anything tech-related. Lately I've been especially enjoying full-stack development, playing around with projects involving AI/ML, and building @ hackathons 🧑🏻‍💻 
+I got into Computer Science because I’m passionate about solving problems through code and love to build software with teams. Lately I've been especially enjoying solving problems at hackathons and personal projects.
 
-Outside of tech, I love going to the gym, bouldering, reading, and trying new things 📚
-
-Currently a Software Developer @ Rocket Innovation Studio 🚀
+Outside of tech, you'll see me at the gym, bouldering, reading, or trying new things 📚
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-carder/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raihancarder@gmail.com) 
